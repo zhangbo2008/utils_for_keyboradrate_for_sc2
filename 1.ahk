@@ -31,8 +31,13 @@ return
 
 
 F5::
-SendInput, {3}
 
+SendInput, {3}
+SendInput, {tab 2}
+
+SendInput, {tab 2}
+
+SendInput, {tab 2}
 SendInput, 3adadadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 
@@ -42,4 +47,5 @@ Send, {1}
 
 
 return 
+
 
